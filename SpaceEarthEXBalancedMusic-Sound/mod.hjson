@@ -1,0 +1,7 @@
+name: "balancedMusic-Sound"
+displayName: "Balanced Music, Sound"
+author: "SpaceEarthEX"
+description: "Add or adjust sound volume and music."
+version: "1.0"
+minGameVersion: "126.2"
+hidden: "true"
